@@ -1,3 +1,4 @@
 -Belajar bahasa inggris
 -pahami dasar jaringan
 - buat star up
+- membuat topologi jaringa
